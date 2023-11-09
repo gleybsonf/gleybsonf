@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfoherman/)](https://www.linkedin.com/in/gleybson-farias/)
+
+[![Lattes](https://img.shields.io/badge/-Lattes-orange?style=flat-square&logo=GitBook&logoColor=white&link=http://lattes.cnpq.br/2433599000300626)](http://lattes.cnpq.br/3110512326867603)
+
 
 <!--
 **gleybsonf/gleybsonf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
